@@ -118,11 +118,11 @@ footer {
   letter-spacing: 1.4px;
 }
 
-* {
+/* * {
   -ms-overflow-style: none;
   scrollbar-width: none;
-}
+} */
 
-*::-webkit-scrollbar {
+/* *::-webkit-scrollbar {
   display: none;
-}
+} */
