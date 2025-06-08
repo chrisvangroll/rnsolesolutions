@@ -94,6 +94,9 @@ a {
   font-size: 24px;
   font-weight: bold;
   color: #990066;
+  span {
+    font-size: 20px;
+  }
 }
 .calendly-inline-widget {
   height: 375px;
